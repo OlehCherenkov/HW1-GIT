@@ -1,0 +1,17 @@
+df2badd (HEAD -> feature5, origin/feature5, origin/develop, develop) HEAD@{0}: checkout: moving from feature4 to feature5
+5955b93 (origin/feature4, feature4) HEAD@{1}: checkout: moving from feature3 to feature4
+1f64788 (origin/feature3, feature3) HEAD@{2}: checkout: moving from feature2 to feature3
+c89d7c7 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{3}: checkout: moving from feature1 to feature2
+c89d7c7 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{4}: checkout: moving from develop to feature1
+df2badd (HEAD -> feature5, origin/feature5, origin/develop, develop) HEAD@{5}: checkout: moving from master to develop
+f3934c6 (origin/master, master) HEAD@{6}: commit (merge): fix conflict
+e0ae56d HEAD@{7}: checkout: moving from develop to master
+df2badd (HEAD -> feature5, origin/feature5, origin/develop, develop) HEAD@{8}: merge feature5: Fast-forward
+5955b93 (origin/feature4, feature4) HEAD@{9}: checkout: moving from feature5 to develop
+df2badd (HEAD -> feature5, origin/feature5, origin/develop, develop) HEAD@{10}: rebase -i (finish): returning to refs/heads/feature5
+df2badd (HEAD -> feature5, origin/feature5, origin/develop, develop) HEAD@{11}: rebase -i (fixup): delete block in index.html
+f05e189 HEAD@{12}: rebase -i (start): checkout HEAD~2
+e73b53f HEAD@{13}: commit: change style in index.html
+f05e189 HEAD@{14}: commit: delete block in index.html
+5955b93 (origin/feature4, feature4) HEAD@{15}: checkout: moving from develop to feature5
+5955b93 (origin/feature4, feature4) HEAD@{16}: checkout: moving from master to develop
