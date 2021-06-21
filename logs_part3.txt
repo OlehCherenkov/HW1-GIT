@@ -1,0 +1,4 @@
+e5d8b40 (HEAD -> develop, origin/develop) HEAD@{0}: reset: moving to HEAD~1
+5106181 HEAD@{1}: commit: add descr in README.md
+e5d8b40 (HEAD -> develop, origin/develop) HEAD@{2}: commit: change style in index.html
+df2badd (origin/feature5) HEAD@{3}: checkout: moving from master to develop
