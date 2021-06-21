@@ -1,0 +1,10 @@
+077d77c (HEAD -> feature7, origin/feature7) HEAD@{0}: checkout: moving from develop to feature7
+ac08ccc (origin/develop, develop) HEAD@{1}: cherry-pick: Change styles for images in index.html
+fb0f8e0 HEAD@{2}: commit: add idea files
+03c8035 HEAD@{3}: commit: Add .gitignore
+d881c1c HEAD@{4}: checkout: moving from feature7 to develop
+077d77c (HEAD -> feature7, origin/feature7) HEAD@{5}: checkout: moving from develop to feature7
+d881c1c HEAD@{6}: checkout: moving from feature7 to develop
+077d77c (HEAD -> feature7, origin/feature7) HEAD@{7}: commit: Change styles for images in index.html
+d881c1c HEAD@{8}: checkout: moving from develop to feature7
+d881c1c HEAD@{9}: checkout: moving from master to develop
