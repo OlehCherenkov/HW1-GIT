@@ -1,0 +1,8 @@
+d96cf12 (HEAD -> feature6, origin/feature6) HEAD@{0}: checkout: moving from develop to feature6
+d881c1c (origin/develop, develop) HEAD@{1}: commit (merge): Merge branch 'feature6' into develop
+0a287a0 HEAD@{2}: commit: Change content in page.html
+dfbcd07 HEAD@{3}: checkout: moving from feature6 to develop
+d96cf12 (HEAD -> feature6, origin/feature6) HEAD@{4}: commit: Change content in page.html
+dfbcd07 HEAD@{5}: checkout: moving from develop to feature6
+dfbcd07 HEAD@{6}: commit: Add page.html
+e5d8b40 HEAD@{7}: checkout: moving from master to develop
